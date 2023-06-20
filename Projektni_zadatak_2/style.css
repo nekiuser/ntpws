@@ -15,6 +15,14 @@ header {
 	position: relative;
 	height: 500px;
 }
+.centered {
+	font-size: 100px;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color:rgba(0, 183, 255, 0.493)
+  }
 ul {
 	list-style-type: none;
 	margin: 0;
